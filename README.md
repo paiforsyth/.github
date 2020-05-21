@@ -1,7 +1,7 @@
-# (carbon)plan GitHub Templates
+# CarbonPlan GitHub Templates
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
-![Packagist License](https://img.shields.io/packagist/l/carbonplan/.github)
+[![License](https://img.shields.io/badge/license-MIT-%237eb36a)](LICENSE)
 
 Community Health Files. More details on configuration [here](https://help.github.com/en/github/building-a-strong-community/creating-a-default-community-health-file).
 
